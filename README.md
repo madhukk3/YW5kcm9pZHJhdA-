@@ -1,4 +1,4 @@
-#  Remote Access Trojan
+#  Remote Access
 
 ## Features
 - 📷 **Camera Access**: Take photos/videos remotely
